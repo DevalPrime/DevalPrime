@@ -1,181 +1,86 @@
-# Personal Portfolio Website 🚀
+# Hi there, I'm Devis Lodhwal 👋
 
-A modern, responsive personal portfolio website showcasing your projects, skills, and professional experience. Built with clean HTML, CSS, and vanilla JavaScript.
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+  
+</div>
 
-![Portfolio Preview](https://img.shields.io/badge/Status-Active-success)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## 🚀 About Me
 
-## ✨ Features
+I'm a passionate **Full Stack Developer** based in **New Delhi, India**. I love creating elegant solutions to complex problems through code. My journey in tech started with curiosity and has grown into a career dedicated to continuous learning and innovation.
 
-- **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
-- **Modern UI/UX**: Clean, professional design with smooth animations and transitions
-- **Interactive Elements**: 
-  - Smooth scrolling navigation
-  - Animated statistics counters
-  - Mobile-friendly hamburger menu
-  - Typing effect on hero title
-  - Scroll-based animations
-- **Multiple Sections**:
-  - Hero section with call-to-action
-  - About section with statistics
-  - Skills showcase with technology categories
-  - Featured projects with descriptions
-  - Contact form with validation
-- **SEO Optimized**: Semantic HTML structure for better search engine visibility
-- **Easy to Customize**: Well-organized code with CSS variables for quick theming
+- 🔭 I'm currently working on building innovative web applications
+- 🌱 I'm always exploring new technologies and frameworks
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about JavaScript, React, Node.js, or anything tech-related
+- 📫 How to reach me: **lodhwaldevis@icloud.com**
 
-## 🚀 Quick Start
+## 🛠️ Tech Stack
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/DevalPrime/Portfolio.git
-   cd Portfolio
-   ```
+<div align="center">
 
-2. **Open in browser**
-   - Simply open `index.html` in your web browser
-   - Or use a local development server:
-     ```bash
-     # Using Python
-     python -m http.server 8000
-     
-     # Using Node.js (with npx)
-     npx serve
-     
-     # Using PHP
-     php -S localhost:8000
-     ```
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-3. **View your portfolio**
-   - Open your browser and navigate to `http://localhost:8000`
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## 🎨 Customization
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Update Personal Information
+</div>
 
-1. **Edit `index.html`**:
-   - Replace "Your Name" with your actual name
-   - Update the job title/subtitle
-   - Modify the about section text
-   - Update contact information (email, phone, location)
-   - Replace social media links with your profiles
+## 📊 GitHub Stats
 
-2. **Edit Project Details**:
-   - Update project titles, descriptions, and tags
-   - Add links to your GitHub repositories and live demos
-   - Customize the project cards with your own projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevalPrime&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevalPrime&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
 
-3. **Modify Skills**:
-   - Update the skills section with your technologies
-   - Change icons (using Font Awesome classes)
-   - Add or remove skill categories
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevalPrime&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-### Customize Colors and Styling
+## 🔥 Featured Projects
 
-Edit the CSS variables in `styles.css`:
+<div align="center">
 
-```css
-:root {
-    --primary-color: #6366f1;      /* Main theme color */
-    --primary-dark: #4f46e5;       /* Darker shade */
-    --secondary-color: #8b5cf6;    /* Accent color */
-    --text-color: #1f2937;         /* Main text color */
-    --text-light: #6b7280;         /* Light text color */
-}
-```
+[![Open Source Contribution Tracker](https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Open-Source-Contribution-Tracker&theme=tokyonight&hide_border=true)](https://github.com/DevalPrime/Open-Source-Contribution-Tracker)
+[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Tetris&theme=tokyonight&hide_border=true)](https://github.com/DevalPrime/Tetris)
 
-## 📂 Project Structure
+[![creator-direct](https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=creator-direct&theme=tokyonight&hide_border=true)](https://github.com/DevalPrime/creator-direct)
+[![Epidemic-Simulator](https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Epidemic-Simulator&theme=tokyonight&hide_border=true)](https://github.com/DevalPrime/Epidemic-Simulator)
 
-```
-Portfolio/
-│
-├── index.html          # Main HTML file
-├── styles.css          # Stylesheet with all styling
-├── script.js           # JavaScript for interactivity
-└── README.md          # This file
-```
+</div>
 
-## 🛠️ Technologies Used
+## 🤝 Connect with Me
 
-- **HTML5**: Semantic markup for structure
-- **CSS3**: Modern styling with Flexbox and Grid
-- **JavaScript (ES6+)**: Interactive functionality
-- **Font Awesome**: Icons for social links and features
+<div align="center">
 
-## 📱 Responsive Breakpoints
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevalPrime)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devis-lodhwal-892078263/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lodhwaldevis@icloud.com)
 
-- **Desktop**: 1200px and above
-- **Tablet**: 768px - 1199px
-- **Mobile**: Below 768px
-
-## 🌟 Key Features Explained
-
-### Smooth Scrolling
-Navigation links smoothly scroll to different sections of the page.
-
-### Mobile Navigation
-Hamburger menu for mobile devices with smooth toggle animation.
-
-### Intersection Observer
-Elements fade in and slide up as they come into view.
-
-### Contact Form
-Functional contact form (currently shows an alert; can be connected to a backend).
-
-### Statistics Counter
-Animated number counters in the about section.
-
-## 🚀 Deployment
-
-### GitHub Pages
-1. Push your code to GitHub
-2. Go to repository Settings → Pages
-3. Select the main branch as source
-4. Your site will be available at `https://yourusername.github.io/Portfolio`
-
-### Netlify
-1. Create an account on [Netlify](https://netlify.com)
-2. Connect your GitHub repository
-3. Deploy with one click
-
-### Vercel
-1. Create an account on [Vercel](https://vercel.com)
-2. Import your GitHub repository
-3. Deploy automatically
-
-## 📝 To-Do / Future Enhancements
-
-- [ ] Add dark mode toggle
-- [ ] Integrate with a backend for contact form
-- [ ] Add blog section
-- [ ] Include testimonials section
-- [ ] Add more project filtering options
-- [ ] Implement Progressive Web App (PWA) features
-- [ ] Add analytics integration
-
-## 🤝 Contributing
-
-Feel free to fork this project and customize it for your own use. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@DevalPrime](https://github.com/DevalPrime)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography
-- The open-source community for inspiration
+</div>
 
 ---
 
-⭐ If you like this portfolio template, please give it a star on GitHub!
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=DevalPrime&color=6366f1&style=for-the-badge)
+  
+  ⭐ From [DevalPrime](https://github.com/DevalPrime)
+  
+</div>
