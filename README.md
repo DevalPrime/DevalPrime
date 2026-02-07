@@ -1,27 +1,67 @@
-## Hi there 👋, I'm Deval!
+# Hi there 👋, I'm **Deval**
 
-🎓 **Engineering Student | India**
+🎓 **Engineering Student | India**  
+💻 Aspiring Software Engineer | Problem Solver | Builder  
 
-🔭 **Currently working on:**  
-- Personal projects in coding & tech  
-- Exploring software development  
+---
 
-🌱 **Currently learning:**  
+## 🚀 About Me  
+I am an engineering student passionate about building meaningful software, solving real-world problems with code, and continuously learning new technologies. I enjoy working on projects that challenge me and help me grow as a developer.
+
+---
+
+## 🛠️ Skills  
+
+**Programming Languages:**  
+- C / C++  
+- Python  
+- (Add Java, JavaScript, etc. if applicable)
+
+**Web Technologies:**  
+- HTML, CSS, JavaScript  
+- (Add frameworks like React, if you know them)
+
+**Core Areas:**  
 - Data Structures & Algorithms  
-- Web Development / Programming (you can specify your stack)  
+- Problem Solving  
+- Object-Oriented Programming  
 
-👯 **Looking to collaborate on:**  
+---
+
+## 💼 Projects  
+
+### 🔹 Project 1 — *Your Best Project Name*  
+Brief description of what it does, why you built it, and what you learned.  
+🔗 Repo: (add link)
+
+### 🔹 Project 2 — *Another Strong Project*  
+Short description + impact.  
+🔗 Repo: (add link)
+
+*(You can add more as you build your portfolio.)*
+
+---
+
+## 📚 Currently Learning  
+- Advanced Data Structures  
+- Web Development  
+- Software Development Concepts  
+
+---
+
+## 🤝 Looking to Collaborate  
+Open to:
 - Open-source projects  
 - Hackathons  
-- Cool coding ideas  
+- Team coding projects  
 
-💬 **Ask me about:**  
-- Programming  
-- Tech, projects, and problem-solving  
+---
 
-📫 **How to reach me:**  
-- GitHub: @DevalPrime  
-- (Add LinkedIn / Twitter / Email if you want)
+## 📫 Connect with Me  
+- GitHub: **@DevalPrime**  
+- LinkedIn: (add your profile)  
+- Email: (optional)
 
-⚡ **Fun fact:**  
-I probably learn best by breaking things first 😄
+---
+
+⭐ *“Learning. Building. Improving — every day.”*
