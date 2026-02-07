@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Deval!
 
-<!--
-**DevalPrime/DevalPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Engineering Student | India**
 
-Here are some ideas to get you started:
+🔭 **Currently working on:**  
+- Personal projects in coding & tech  
+- Exploring software development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:**  
+- Data Structures & Algorithms  
+- Web Development / Programming (you can specify your stack)  
+
+👯 **Looking to collaborate on:**  
+- Open-source projects  
+- Hackathons  
+- Cool coding ideas  
+
+💬 **Ask me about:**  
+- Programming  
+- Tech, projects, and problem-solving  
+
+📫 **How to reach me:**  
+- GitHub: @DevalPrime  
+- (Add LinkedIn / Twitter / Email if you want)
+
+⚡ **Fun fact:**  
+I probably learn best by breaking things first 😄
