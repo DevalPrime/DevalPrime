@@ -59,6 +59,9 @@
     src="https://raw.githubusercontent.com/DevalPrime/DevalPrime/main/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=8&width=100%" />
+</p>
 
 ---
 
