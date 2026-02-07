@@ -1,14 +1,16 @@
 <div align="center">
 
-## 👋 Hi there, I’m **Devis (DevalPrime)**  
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Devis+(DevalPrime);Full-Stack+Developer+%E2%9A%A1;Open-Source+Builder+%F0%9F%9A%80;I+ship+cool+things+%F0%9F%98%8E" />
 
-### 🚀 Full-Stack Developer • Builder • Open-Source Enthusiast
+## 👨‍💻 Devis (DevalPrime)
 
-<img src="https://komarev.com/ghpvc/?username=DevalPrime&color=blue&style=flat" />
+### 🚀 Full-Stack Developer • Open-Source Builder • Tech Experimenter  
+
+<img src="https://komarev.com/ghpvc/?username=DevalPrime&color=00F7FF&style=for-the-badge" />
 
 ---
 
-### 🌟 Tech Stack
+## 🛠️ Tech Stack (Dev Arsenal)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
@@ -18,46 +20,54 @@
 
 ---
 
-### 🔭 What I’m building right now  
-- Full-stack apps with **React + Node.js**  
-- AI features & automation tools  
-- Open-source contributions  
+## 🔥 What I’m building right now  
+
+🚀 Full-stack apps with **React + Node.js**  
+🤖 AI features, bots, and automation tools  
+🌍 Open-source contributions  
+⚡ Fast prototypes → real products  
 
 ---
 
-### 🌱 Currently learning  
-- Advanced React patterns  
-- Backend scaling & architecture  
-- System design  
+## 🚀 Featured Projects  
 
----
-
-### 🚀 Featured Projects  
-
-| Project | Description |
-|--------|-------------|
+| 🔥 Project | 💡 What it does |
+|------------|----------------|
 | **creator-direct** | Fan-to-creator subscription platform |
 | **Epidemic-Simulator** | Interactive disease spread simulator |
-| **OSS-Tracker** | Track your open-source contributions |
+| **OSS-Tracker** | Tracks open-source contributions |
 | **oppia (fork)** | Contributions to an open learning platform |
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity (Live Pulse)
 
 ![Devis's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevalPrime&theme=radical)
 
 ---
 
-### 🤝 Let’s connect  
+## 🐍 Contribution Snake (Watch me grind)
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevalPrime-black?style=for-the-badge&logo=github)](https://github.com/DevalPrime)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devis_Lodhwal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devis-lodhwal-892078263/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevalPrime/DevalPrime/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevalPrime/DevalPrime/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevalPrime/DevalPrime/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> ⚠️ *Note:* You’ll need to set up the snake animation workflow in GitHub Actions once — I can help you do this if you want.
+
+---
+
+## 🌐 Let’s Connect  
+
+[![GitHub](https://img.shields.io/badge/GitHub-DevalPrime-black?style=for-the-badge&logo=github)](https://github.com/DevalPrime)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devis_Lodhwal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devis-lodhwal-892078263/)  
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0167d597570c72a389)
 
 ---
 
-### ⚡ Fun fact  
-I learn best by building cool things, breaking them, and making them better.
+## ⚡ Dev Motto  
+
+> “Build fast. Break things. Fix them better.”
 
 </div>
