@@ -81,7 +81,7 @@ https://github.com/DevalPrime/Epidemic-Simulator
 
 [![GitHub](https://img.shields.io/badge/GitHub-DevalPrime-black?style=for-the-badge&logo=github)](https://github.com/DevalPrime)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devis_Lodhwal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devis-lodhwal-892078263/)  
-[![X (Twitter)](https://img.shields.io/badge/X-@DevalPrime-black?style=for-the-badge&logo=x)](https://x.com/devalprime?s=21)  
+[![X (Twitter)](https://img.shields.io/badge/X-@DevalPrime-black?style=for-the-badge&logo=x)](https://x.com/devalprime)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0167d597570c72a389)
 
 ---
