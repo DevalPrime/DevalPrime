@@ -35,23 +35,25 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 <p align="center">
 <a href="https://github.com/DevalPrime/Meta-Ads-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Meta-Ads-Manager&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Meta-Ads-Manager&theme=radical" />
 </a>
 
 <a href="https://github.com/DevalPrime/creator-direct">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=creator-direct&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=creator-direct&theme=radical" />
 </a>
 
+<br/>
+
 <a href="https://github.com/DevalPrime/Tetris">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Tetris&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Tetris&theme=radical" />
 </a>
 
 <a href="https://github.com/DevalPrime/Epidemic-Simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Epidemic-Simulator&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Epidemic-Simulator&theme=radical" />
 </a>
 </p>
 
