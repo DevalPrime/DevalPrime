@@ -39,16 +39,16 @@
 
 <div align="center">
 
-### 🔹 Meta Ads Manager  
+🚀 **Meta Ads Manager** — Real-world marketing automation tool  
 🔗 https://github.com/DevalPrime/Meta-Ads-Manager  
 
-### 🔹 Creator Direct  
+🌐 **creator-direct** — Fan-to-creator subscription platform  
 🔗 https://github.com/DevalPrime/creator-direct  
 
-### 🔹 Tetris  
+🎮 **Tetris** — Browser-based game with interactive UI  
 🔗 https://github.com/DevalPrime/Tetris  
 
-### 🔹 Epidemic Simulator  
+🦠 **Epidemic Simulator** — Visual model of disease spread  
 🔗 https://github.com/DevalPrime/Epidemic-Simulator  
 
 </div>
