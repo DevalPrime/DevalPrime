@@ -37,25 +37,21 @@
 
 ## 🚀 Featured Projects  
 
-<p align="center">
-<a href="https://github.com/DevalPrime/Meta-Ads-Manager">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Meta-Ads-Manager&theme=radical" />
-</a>
+<div align="center">
 
-<a href="https://github.com/DevalPrime/creator-direct">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=creator-direct&theme=radical" />
-</a>
+### 🔹 Meta Ads Manager  
+🔗 https://github.com/DevalPrime/Meta-Ads-Manager  
 
-<br/>
+### 🔹 Creator Direct  
+🔗 https://github.com/DevalPrime/creator-direct  
 
-<a href="https://github.com/DevalPrime/Tetris">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Tetris&theme=radical" />
-</a>
+### 🔹 Tetris  
+🔗 https://github.com/DevalPrime/Tetris  
 
-<a href="https://github.com/DevalPrime/Epidemic-Simulator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Epidemic-Simulator&theme=radical" />
-</a>
-</p>
+### 🔹 Epidemic Simulator  
+🔗 https://github.com/DevalPrime/Epidemic-Simulator  
+
+</div>
 
 ---
 
