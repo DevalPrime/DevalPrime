@@ -33,10 +33,10 @@
 
 | 🔥 Project | 💡 What it does |
 |------------|----------------|
-| **creator-direct** | Fan-to-creator subscription platform |
-| **Epidemic-Simulator** | Interactive disease spread simulator |
-| **OSS-Tracker** | Tracks open-source contributions |
-| **oppia (fork)** | Contributions to an open learning platform |
+| **creator-direct** | Direct fan-to-creator subscription platform |
+| **Epidemic-Simulator** | Visual simulation of disease spread |
+| **OSS-Tracker** | Tracks and visualizes open-source activity |
+| **oppia (fork)** | Contributions to a global learning platform |
 
 ---
 
@@ -46,15 +46,13 @@
 
 ---
 
-## 🐍 Contribution Snake (Watch me grind)
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevalPrime/DevalPrime/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevalPrime/DevalPrime/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevalPrime/DevalPrime/output/github-contribution-grid-snake.svg" />
 </picture>
-
-> ⚠️ *Note:* You’ll need to set up the snake animation workflow in GitHub Actions once — I can help you do this if you want.
 
 ---
 
