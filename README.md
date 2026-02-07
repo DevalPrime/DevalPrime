@@ -8,8 +8,6 @@
 
 <div align="center">
 
-<h3 align="center">🚀 Building cool stuff in public</h3>
-
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Devis;Full-Stack+Developer+%E2%9A%A1;Open-Source+Builder+%F0%9F%9A%80;I+ship+cool+things+%F0%9F%98%8E" />
 
 ### 🚀 Full-Stack Developer • Open-Source Builder • Tech Experimenter  
@@ -30,10 +28,10 @@
 
 ## 🔥 What I’m building right now  
 
-🚀 Production-ready apps with React + Node.js  
-🤖 AI features, bots, and workflow automation  
-🌍 Meaningful open-source contributions  
-⚡ Rapid prototypes → real products  
+Production-ready apps with React + Node.js  
+AI features, bots, and workflow automation  
+Meaningful open-source contributions  
+Rapid prototypes → real products  
 
 ---
 
@@ -41,17 +39,17 @@
 
 <div align="center">
 
-🚀 **Meta Ads Manager** — Real-world marketing automation tool  
-🔗 https://github.com/DevalPrime/Meta-Ads-Manager  
+**Meta Ads Manager** — Real-world marketing automation tool  
+https://github.com/DevalPrime/Meta-Ads-Manager  
 
-🌐 **creator-direct** — Fan-to-creator subscription platform  
-🔗 https://github.com/DevalPrime/creator-direct  
+**creator-direct** — Fan-to-creator subscription platform  
+https://github.com/DevalPrime/creator-direct  
 
-🎮 **Tetris** — Browser-based game with interactive UI  
-🔗 https://github.com/DevalPrime/Tetris  
+**Tetris** — Browser-based game with interactive UI  
+https://github.com/DevalPrime/Tetris  
 
-🦠 **Epidemic Simulator** — Visual model of disease spread  
-🔗 https://github.com/DevalPrime/Epidemic-Simulator  
+**Epidemic Simulator** — Visual model of disease spread  
+https://github.com/DevalPrime/Epidemic-Simulator  
 
 </div>
 
