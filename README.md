@@ -87,6 +87,6 @@ https://github.com/DevalPrime/Epidemic-Simulator
 
 ## ⚡ Dev Motto  
 
-> “Build fast. Break things. Fix them better.”
+“Build fast. Break things. Fix them better.”
 
 </div>
