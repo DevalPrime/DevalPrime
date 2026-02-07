@@ -11,9 +11,15 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (full history)
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # IMPORTANT
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -23,7 +29,7 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg
 
-      - name: Push changes
+      - name: Commit & push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
