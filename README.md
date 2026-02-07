@@ -1,67 +1,25 @@
-# Hi there 👋, I'm **Devis Lodhwal**
+## Hi there 👋, I'm Devis Lodhwal!
 
-🎓 **Engineering Student | India**  
-💻 Aspiring Software Engineer | Problem Solver | Builder  
+🔭 **Currently working on:**  
+- Personal projects in coding & tech  
+- Exploring software development  
 
----
-
-## 🚀 About Me  
-I am an engineering student passionate about building meaningful software, solving real-world problems with code, and continuously learning new technologies. I enjoy working on projects that challenge me and help me grow as a developer.
-
----
-
-## 🛠️ Skills  
-
-**Programming Languages:**  
-- C / C++  
-- Python  
-- (Add Java, JavaScript, etc. if applicable)
-
-**Web Technologies:**  
-- HTML, CSS, JavaScript  
-- (Add frameworks like React, if you know them)
-
-**Core Areas:**  
+🌱 **Currently learning:**  
 - Data Structures & Algorithms  
-- Problem Solving  
-- Object-Oriented Programming  
+- Web Development / Programming (you can specify your stack)  
 
----
-
-## 💼 Projects  
-
-### 🔹 Project 1 — *Your Best Project Name*  
-Brief description of what it does, why you built it, and what you learned.  
-🔗 Repo: (add link)
-
-### 🔹 Project 2 — *Another Strong Project*  
-Short description + impact.  
-🔗 Repo: (add link)
-
-*(You can add more as you build your portfolio.)*
-
----
-
-## 📚 Currently Learning  
-- Advanced Data Structures  
-- Web Development  
-- Software Development Concepts  
-
----
-
-## 🤝 Looking to Collaborate  
-Open to:
+👯 **Looking to collaborate on:**  
 - Open-source projects  
 - Hackathons  
-- Team coding projects  
+- Cool coding ideas  
 
----
+💬 **Ask me about:**  
+- Programming  
+- Tech, projects, and problem-solving  
 
-## 📫 Connect with Me  
-- GitHub: **@DevalPrime**  
-- LinkedIn: (add your profile)  
-- Email: (optional)
+📫 **How to reach me:**  
+- GitHub: @DevalPrime  
+- (Add LinkedIn / Twitter / Email if you want)
 
----
-
-⭐ *“Learning. Building. Improving — every day.”*
+⚡ **Fun fact:**  
+I probably learn best by breaking things first 😄
