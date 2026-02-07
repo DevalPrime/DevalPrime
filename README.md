@@ -43,12 +43,9 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Activity
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevalPrime&show_icons=true&theme=radical&cache_seconds=1800&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevalPrime&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+![Devis's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevalPrime&theme=radical)
 
 ---
 
