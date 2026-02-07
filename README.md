@@ -33,12 +33,23 @@
 
 ## 🚀 Featured Projects  
 
-| 🔥 Project | 💡 What it does |
-|------------|----------------|
-| **creator-direct** | Direct fan-to-creator subscription platform |
-| **Epidemic-Simulator** | Visual simulation of disease spread |
-| **OSS-Tracker** | Tracks and visualizes open-source activity |
-| **oppia (fork)** | Contributions to a global learning platform |
+<p align="center">
+<a href="https://github.com/DevalPrime/creator-direct">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=creator-direct&theme=radical" />
+</a>
+
+<a href="https://github.com/DevalPrime/Epidemic-Simulator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Epidemic-Simulator&theme=radical" />
+</a>
+
+<a href="https://github.com/DevalPrime/Open-Source-Contribution-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Open-Source-Contribution-Tracker&theme=radical" />
+</a>
+
+<a href="https://github.com/DevalPrime/oppia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=oppia&theme=radical" />
+</a>
+</p>
 
 ---
 
