@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Devis%20%7C%20DevalPrime&fontSize=60&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=DevalPrime&fontSize=60&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Devis+(DevalPrime);Full-Stack+Developer+%E2%9A%A1;Open-Source+Builder+%F0%9F%9A%80;I+ship+cool+things+%F0%9F%98%8E" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Devis;Full-Stack+Developer+%E2%9A%A1;Open-Source+Builder+%F0%9F%9A%80;I+ship+cool+things+%F0%9F%98%8E" />
 
-## 👨‍💻 Devis (DevalPrime)
+## 👨‍💻 DevalPrime
 
 ### 🚀 Full-Stack Developer • Open-Source Builder • Tech Experimenter  
 
