@@ -28,10 +28,10 @@
 
 ## 🔥 What I’m building right now  
 
-🚀 Full-stack apps with **React + Node.js**  
-🤖 AI features, bots, and automation tools  
-🌍 Open-source contributions  
-⚡ Fast prototypes → real products  
+🚀 Production-ready apps with React + Node.js  
+🤖 AI features, bots, and workflow automation  
+🌍 Meaningful open-source contributions  
+⚡ Rapid prototypes → real products  
 
 ---
 
