@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Deval**
+# Hi there 👋, I'm **Devis Lodhwal**
 
 🎓 **Engineering Student | India**  
 💻 Aspiring Software Engineer | Problem Solver | Builder  
