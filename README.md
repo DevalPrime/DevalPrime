@@ -75,10 +75,6 @@ https://github.com/DevalPrime/Epidemic-Simulator
 </picture>
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=8&width=100%" />
-</p>
-
 ---
 
 ## 🌐 Let’s Connect  
