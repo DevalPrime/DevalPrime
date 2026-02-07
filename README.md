@@ -35,23 +35,23 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 <p align="center">
+<a href="https://github.com/DevalPrime/Meta-Ads-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Meta-Ads-Manager&theme=radical" />
+</a>
+
 <a href="https://github.com/DevalPrime/creator-direct">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=creator-direct&theme=radical" />
 </a>
 
+<a href="https://github.com/DevalPrime/Tetris">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Tetris&theme=radical" />
+</a>
+
 <a href="https://github.com/DevalPrime/Epidemic-Simulator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Epidemic-Simulator&theme=radical" />
-</a>
-
-<a href="https://github.com/DevalPrime/Open-Source-Contribution-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=Open-Source-Contribution-Tracker&theme=radical" />
-</a>
-
-<a href="https://github.com/DevalPrime/oppia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevalPrime&repo=oppia&theme=radical" />
 </a>
 </p>
 
