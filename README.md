@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Dev Arsenal)
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
